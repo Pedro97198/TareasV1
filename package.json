@@ -1,7 +1,6 @@
 {
   "name": "web_tareas",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +11,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/floreropepe1/tareas.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/floreropepe1/tareas/issues"
+  },
+  "homepage": "https://gitlab.com/floreropepe1/tareas#readme",
+  "description": ""
 }
